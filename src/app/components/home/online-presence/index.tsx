@@ -197,12 +197,7 @@ const onlinePresenceList: OnlinePresenceItem[] = [
     tag: ['React', 'QR Codes', 'Order Tracking', 'Analytics'],
     link: '#',
   },
-  {
-    image: '/images/projects/xray-recognition.jpg',
-    title: 'X-ray Recognition System',
-    tag: ['Python', 'Django', 'Image Classification'],
-    link: '#',
-  },
+
 ];
 
 function OnlinePresence() {
