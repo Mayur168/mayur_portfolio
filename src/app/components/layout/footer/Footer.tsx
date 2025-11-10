@@ -27,14 +27,14 @@ const Footer = () => {
         <hr />
         <div className='flex justify-center mt-4 gap-5'>
           <Link 
-            href='mailto:omkar60403059@gmail.com' 
+            href='mailto:mayurgaikwad1442@gmail.com' 
             className='flex gap-2 items-center space-x-2 text-dark_black/60 dark:text-white/60 hover:underline'
           >
             <FaEnvelope className='text-lg' />
             <span>Email</span>
           </Link>
           <Link 
-            href='https://github.com/Mayurmadane' 
+            href='https://github.com/Mayur168' 
             className='flex gap-2 items-center space-x-2 text-dark_black/60 dark:text-white/60 hover:underline'
           >
             <FaGithub className='text-lg' />
